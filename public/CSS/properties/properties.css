@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  max-width: 1900px;
+}
+
+html {
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.col {
+  padding-right: 0;
+}
+
+.navbar {
+  background-color: #353a3e;
+}
+
+.row-div {
+  -webkit-box-shadow: 0.5rem 0.5rem 2rem 0.2rem #f7f4f4;
+          box-shadow: 0.5rem 0.5rem 2rem 0.2rem #f7f4f4;
+}
+
+.property-img {
+  width: 40rem;
+  height: auto;
+}
+
+@media only screen and (max-width: 770px) {
+  .details {
+    margin-top: 0.2rem;
+  }
+}
+/*# sourceMappingURL=properties.css.map */

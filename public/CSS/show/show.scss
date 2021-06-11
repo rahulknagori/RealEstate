@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  box-sizing: content-box;
+  max-width: 1900px;
+}
+
+html {
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+$primary-color: #353a3e;
+
+.col {
+  padding-right: 0;
+}
+
+.navbar {
+  background-color: #353a3e;
+}
+
+// corousel-section
+.container-div {
+  background-color: #f0e9e9;
+}
+
+.carousel-item {
+  height: 25rem;
+  width: 100%;
+}
+
+.corousel-image {
+  width: 100%;
+  object-fit: contain;
+  transform: translateY(-200px);
+}

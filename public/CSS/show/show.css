@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  max-width: 1900px;
+}
+
+html {
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.col {
+  padding-right: 0;
+}
+
+.navbar {
+  background-color: #353a3e;
+}
+
+.container-div {
+  background-color: #f0e9e9;
+}
+
+.carousel-item {
+  height: 25rem;
+  width: 100%;
+}
+
+.corousel-image {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -webkit-transform: translateY(-200px);
+          transform: translateY(-200px);
+}
+/*# sourceMappingURL=show.css.map */

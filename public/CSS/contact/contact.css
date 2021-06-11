@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  max-width: 1900px;
+}
+
+html {
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.col {
+  padding-right: 0;
+}
+
+.navbar {
+  background-color: #353a3e;
+}
+/*# sourceMappingURL=contact.css.map */
