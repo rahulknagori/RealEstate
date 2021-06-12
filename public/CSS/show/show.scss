@@ -31,6 +31,6 @@ $primary-color: #353a3e;
 
 .corousel-image {
   width: 100%;
-  object-fit: contain;
-  transform: translateY(-200px);
+  height: 100%;
+  object-fit: cover;
 }

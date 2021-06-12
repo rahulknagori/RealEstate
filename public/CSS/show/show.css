@@ -29,9 +29,8 @@ html {
 
 .corousel-image {
   width: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
-  -webkit-transform: translateY(-200px);
-          transform: translateY(-200px);
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 /*# sourceMappingURL=show.css.map */
